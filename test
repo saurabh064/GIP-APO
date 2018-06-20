@@ -1,1 +1,0 @@
-org.mule.api.lifecycle.LifecycleException: Failed to start inbound endpoint "endpoint.sftp.172.18.45.45.22.usr.sap.WSY.DVEBMGS62.data"
