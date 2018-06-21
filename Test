@@ -4,10 +4,3 @@ ERROR       registration of tp APO.AB1.MULESOFT from host
 TIME        Thu Jun 21 07:06:31 2018
 RELEASE     753
 COMPONENT   SAP-Gateway
-VERSION     2
-RC          720
-MODULE      /bas/753_REL/src/krn/si/gw/gwxxrd.c
-LINE        4173
-COUNTER     527
- RfcException:
-    message: CPIC-CALL: SAP_CMACCPTP3 on convId: 
