@@ -1,6 +1,1 @@
-LOCATION    SAP-Gateway on host xxxx / sapgw00
-ERROR       registration of tp APO.AB1.MULESOFT from host
-            xxx not allowed
-TIME        Thu Jun 21 07:06:31 2018
-RELEASE     753
-COMPONENT   SAP-Gateway
+BEDAT BETWEEN '20161201' AND '20180601'
