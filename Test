@@ -1,1 +1,2 @@
-BEDAT BETWEEN '20161201' AND '20180601'
+    message:      *99999999.000 cannot be interpreted as a number                     
+    Return code: RFCIO_ERROR_DEALLOCATED_REMOTE_ERROR(33)<
